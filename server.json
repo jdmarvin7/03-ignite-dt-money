@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 30000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Humburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:55:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite RocketSeat",
+      "type": "income",
+      "category": "Educação",
+      "price": 1500,
+      "createdAt": "2022-07-29T20:55:44.505Z"
+    },
+    {
+      "type": "income",
+      "description": "Pluralsight course 'RxJS'",
+      "price": 500000,
+      "category": "Education",
+      "createdAt": "2022-10-18T01:49:08.056Z",
+      "id": 4
+    },
+    {
+      "description": "Pão de queijo",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-18T02:03:33.099Z",
+      "id": 5
+    }
+  ]
+}
